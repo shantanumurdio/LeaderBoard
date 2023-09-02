@@ -1,4 +1,4 @@
-<!-- # Leaderboard Web App [Link](https://abhilashtengli.github.io/LeaderBoard-project/)
+# Leaderboard Web App [Link](https://shantanumurdio.github.io/LeaderBoard/)
 
 A simple web application to manage a leaderboard. Users can add player information and scores, and the leaderboard will be dynamically updated and sorted based on scores.
 
@@ -11,7 +11,7 @@ A simple web application to manage a leaderboard. Users can add player informati
 
 ## Demo
 
-You can see a live demo of the Leaderboard Web App [here](https://abhilashtengli.github.io/LeaderBoard-project/).
+You can see a live demo of the Leaderboard Web App [here](https://shantanumurdio.github.io/LeaderBoard/).
 
 ## Technologies Used
 
@@ -34,4 +34,4 @@ You can see a live demo of the Leaderboard Web App [here](https://abhilashtengli
 
 4. Players will be displayed in descending order of their scores.
 
-5. To remove a player, click the delete icon (🗑️) next to their entry. -->
+5. To remove a player, click the delete icon (🗑️) next to their entry.
